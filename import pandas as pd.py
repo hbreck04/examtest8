@@ -38,3 +38,4 @@ if not train_data.empty:
     print("Actual Playoff Status for 2012:", y_test.values[0])
 else:
     print("Training data is empty. Please check your data filtering/slicing.")
+    print ("Go Brewers!")
